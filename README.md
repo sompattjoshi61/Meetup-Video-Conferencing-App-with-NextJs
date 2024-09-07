@@ -1,4 +1,4 @@
-![4](https://github.com/user-attachments/assets/ee1cce2d-96e9-49b5-8221-a2b585b54672)![7](https://github.com/user-attachments/assets/bd29b8d8-677b-4a8b-af9d-b6149ff18c62)Add a File .env.local at main Project Folder
+Add a File .env.local at main Project Folder
 
 inside that add - :
 
