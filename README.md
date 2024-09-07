@@ -1,3 +1,8 @@
+This App is Deployed in Versel so please visit the live link of the application - meetup-live.vercel.app   [IMPORTANT]
+
+
+
+
 Add a File .env.local at main Project Folder
 
 inside that add - :
